@@ -11,14 +11,13 @@
   color: blue;
   padding: 10px;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .center {
 	text-align: center;
 }
-header{
-	margin-bottom: 10px;
-}
+
 .row {
 	margin-bottom: 10px;
 }
