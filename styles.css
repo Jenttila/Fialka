@@ -4,6 +4,8 @@
   border: gray;
   margin: 0;
 }
-.header, .footer{
+.header, .footer {
+  clear:both;
+  padding: 10px;
   text-align: center;
 }
