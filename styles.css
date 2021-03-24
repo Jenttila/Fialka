@@ -1,9 +1,6 @@
 .headerimg{
   float:left;
   padding: 10px;
-  border: gray;
-  margin: 0;
-  display:inline-block;
 }
 .border {
 	border: 1px solid black;
